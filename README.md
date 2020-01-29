@@ -10,12 +10,3 @@ Data:
 
 References:
 * [Pandas Cheat Sheet](https://github.com/gtkcyber/dataworksmd_workshop/blob/master/references/Pandas_Cheat_Sheet.pdf)
-
-## Presenter Information
-Charles Givre CISSP
-Email: charles.givre@gtkcyber.com
-
-Website: [The Dataist](http://thedataist.com)
-
-<img src="img/GTK_Logo_Social Icon.jpg" height=125, width=125, align="left" />
-
